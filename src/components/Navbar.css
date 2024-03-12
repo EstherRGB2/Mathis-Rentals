@@ -1,0 +1,15 @@
+.navbar {
+  background-color: rgb(158, 34, 34);
+  padding: 20px 20px 20px 20px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.1);
+  width: 100vw;
+  height: 150px;
+
+}
+
+.navbar img {
+  width: 300px;
+  height: auto;
+  justify-self: flex-start;
+ }
+
