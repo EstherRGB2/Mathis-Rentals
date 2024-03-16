@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mathis-Rentals/static/css/main.7e250530.css",
+    "main.js": "/Mathis-Rentals/static/js/main.5f0c25fd.js",
+    "index.html": "/Mathis-Rentals/index.html",
+    "main.7e250530.css.map": "/Mathis-Rentals/static/css/main.7e250530.css.map",
+    "main.5f0c25fd.js.map": "/Mathis-Rentals/static/js/main.5f0c25fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e250530.css",
+    "static/js/main.5f0c25fd.js"
+  ]
+}
