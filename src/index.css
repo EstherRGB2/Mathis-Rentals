@@ -20,11 +20,12 @@ code {
 }
 
 .App {
-  background-color: rgb(220, 235, 240);
+  justify-content: center;
+  background-color: #f8f8f8;
 }
 
 body {
-  background-color: rgb(220, 235, 240);
+  background-color:#f8f8f8;
 }
 
 .MuiToolbar-gutters {

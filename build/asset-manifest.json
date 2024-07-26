@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e250530.css",
-    "main.js": "/static/js/main.5f0c25fd.js",
-    "index.html": "/index.html",
-    "main.7e250530.css.map": "/static/css/main.7e250530.css.map",
-    "main.5f0c25fd.js.map": "/static/js/main.5f0c25fd.js.map"
+    "main.css": "/Mathis-Rentals/static/css/main.91f5e07d.css",
+    "main.js": "/Mathis-Rentals/static/js/main.54263dd4.js",
+    "index.html": "/Mathis-Rentals/index.html",
+    "main.91f5e07d.css.map": "/Mathis-Rentals/static/css/main.91f5e07d.css.map",
+    "main.54263dd4.js.map": "/Mathis-Rentals/static/js/main.54263dd4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e250530.css",
-    "static/js/main.5f0c25fd.js"
+    "static/css/main.91f5e07d.css",
+    "static/js/main.54263dd4.js"
   ]
 }

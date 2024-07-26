@@ -3,7 +3,7 @@ import Box from '@mui/material/Box';
 import Card from '@mui/material/Card';
 import '../index.css';
 
-export default function Locations() {
+export default function Contact() {
   return (
     <Box
       display='flex'
@@ -12,7 +12,7 @@ export default function Locations() {
       margin='100px'
     >
       <Typography variant='h3' sx={{ fontWeight: 'bold', marginBottom: '40px' }}>
-        Mathis Rentals has two convenient locations to serve you!
+        Contact us at one of our two locations!
       </Typography>
 
       <Box
@@ -30,7 +30,7 @@ export default function Locations() {
             padding:'40px',
             width: '600px',
           }}
-        >
+          >
           <Typography sx={{ fontWeight: 'bold', fontSize: '2rem' }}>
             Bastrop, TX
           </Typography>
@@ -77,84 +77,44 @@ export default function Locations() {
             display:'flex',
             flexDirection:'column',
             alignItems:'center',
-            justifyContent:'center',
-            alignContent:'center',
-            // gap:'20px',
+            gap:'20px',
+            padding:'40px',
             width: '600px',
           }}
         >
-          <Typography
-            sx={{
-              fontWeight: 'bold',
-              fontSize: '2rem',
-              width: '100%',
-              textAlign: 'center',
-              paddingTop:'10px',
-              paddingBottom:'10px',
-              }}
-              >
+          <Typography sx={{ fontWeight: 'bold', fontSize: '2rem' }}>
             La Grange, TX
           </Typography>
           <Box display='flex' flexDirection='column' alignItems='center' gap='10px'>
-            <Typography
-              sx={{
-                fontSize: '1.8rem',
-                paddingTop:'20px',
-                }}>
+            <Typography sx={{ fontSize: '1.8rem' }}>
               Address:
             </Typography>
-            <Typography
-              sx={{
-                fontSize: '1.3rem',
-                }}>
+            <Typography sx={{ fontSize: '1.3rem' }}>
               1626 E. Hwy 71 Bypass
             </Typography>
-            <Typography
-              sx={{
-                fontSize: '1.3rem',
-                }}>
+            <Typography sx={{ fontSize: '1.3rem' }}>
               La Grange, TX 78945
             </Typography>
           </Box>
           <Box display='flex' flexDirection='column' alignItems='center' gap='10px'>
-            <Typography
-              sx={{
-                fontSize: '1.8rem',
-                paddingTop:'20px',
-                }}>
+            <Typography sx={{ fontSize: '1.8rem' }}>
               Contact:
             </Typography>
-            <Typography
-              sx={{
-                fontSize: '1.3rem',
-              }}>
+            <Typography sx={{ fontSize: '1.3rem' }}>
               979-966-0440 tel
             </Typography>
-            <Typography
-              sx={{
-                fontSize: '1.3rem',
-                }}>
+            <Typography sx={{ fontSize: '1.3rem' }}>
               979-966-0019 fax
             </Typography>
-            <Typography
-              sx={{
-                fontSize: '1.3rem',
-                 }}>
+            <Typography sx={{ fontSize: '1.3rem' }}>
               mathis.lagrange@gmail.com
             </Typography>
           </Box>
           <Box display='flex' flexDirection='column' alignItems='center' gap='10px'>
-            <Typography
-              sx={{
-                fontSize: '1.8rem',
-                paddingTop:'20px',
-                 }}>
+            <Typography sx={{ fontSize: '1.8rem' }}>
               Store Hours:
             </Typography>
-            <Typography
-              sx={{
-                fontSize: '1.3rem',
-                 }}>
+            <Typography sx={{ fontSize: '1.3rem' }}>
               Monday-Friday: 7:30 AM - 5:00 PM
             </Typography>
           </Box>
